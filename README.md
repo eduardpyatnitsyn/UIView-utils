@@ -1,2 +1,2 @@
 # UIView-utils
-just few helper
+just few helper utils
